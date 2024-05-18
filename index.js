@@ -18,7 +18,7 @@ window.onload = function () {
   const verly = new Verly(16, canvas, ctx);
 
   let boids = [];
-  for (let i = 0; i < 100; i++) {
+  for (let i = 0; i < 200; i++) {
     boids.push(new Boid(Math.random() * width, Math.random() * height, 5, verly))
   }
 
