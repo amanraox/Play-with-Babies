@@ -1,5 +1,4 @@
 # Play with My Babies
 smol smol snakes ;)
-![spern](/asset/spern.jpg)
-<img src="/asset/spern.jpg" height="900">
+<img src="/asset/spern.jpg" height="700">
 ## Wish Grated!
